@@ -24,6 +24,7 @@ function Desarrollador(nombre, apellido){
   this.nombre = nombre
   this.apellido = apellido
 }
+
 heredaDe(Desarrollador, Persona)
 
 Desarrollador.prototype.saludar = function(){
