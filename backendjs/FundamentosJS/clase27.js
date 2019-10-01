@@ -45,5 +45,4 @@ class Desarrollador extends Persona{
  }
 
  var juan = new Desarrollador('juan','Roman',1.78)
- juan.saludar()
- juan.saludar(responderSaludo)
+
